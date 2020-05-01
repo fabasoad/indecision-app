@@ -11,12 +11,12 @@ on:
 
 jobs:
   coverage:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
-      - uses: actions/setup-node@master
+      - uses: actions/checkout@v2.1.0
+      - uses: actions/setup-node@v1.4.2
         with:
-          node-version: '12'
+          node-version: '13'
       - run: npm install -g yarn
       - run: yarn install
       - run: yarn build:prod
