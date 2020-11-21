@@ -12,7 +12,7 @@ Indecision app that is developed in scope of Udemy [The Complete React Developer
 git clone git@github.com:fabasoad/indecision-app.git
 cd indecision-app
 yarn install
-yarn run dev-server
+yarn run start:dev
 ```
 Go to http://localhost:8080/ and be sure that app is running.
 ## How to deploy to Heroku
