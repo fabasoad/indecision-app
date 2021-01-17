@@ -11,6 +11,7 @@
     "start": "node server/server.js",
     "heroku-postbuild": "yarn run build:prod",
     "snyk-protect": "snyk protect",
+    "postinstall": "yarn husky install",
     "prepare": "yarn run snyk-protect"
   },
   "dependencies": {
