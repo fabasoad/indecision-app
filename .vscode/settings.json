@@ -1,6 +1,12 @@
 {
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "fixAll.eslint": true,
+    "source.organizeImports": true
+  },
   "cSpell.words": [
     "UNSECURE",
+    "Udemy",
     "ibiqlik",
     "semver",
     "simbo",
