@@ -36,7 +36,7 @@
     "node-sass": "5.0.0",
     "normalize.css": "8.0.1",
     "sass-loader": "11.0.1",
-    "snyk": "1.574.0",
+    "snyk": "1.575.0",
     "style-loader": "2.0.0",
     "webpack": "5.36.2",
     "webpack-cli": "4.6.0",
