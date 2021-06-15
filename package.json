@@ -30,7 +30,7 @@
     "@webpack-cli/serve": "1.4.0",
     "babel-loader": "8.2.2",
     "babel-plugin-transform-class-properties": "6.24.1",
-    "css-loader": "5.2.5",
+    "css-loader": "5.2.6",
     "husky": "6.0.0",
     "mini-css-extract-plugin": "1.6.0",
     "node-sass": "6.0.0",
