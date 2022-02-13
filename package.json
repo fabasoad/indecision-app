@@ -33,7 +33,7 @@
     "css-loader": "6.5.1",
     "husky": "7.0.4",
     "mini-css-extract-plugin": "2.4.5",
-    "node-sass": "7.0.0",
+    "node-sass": "7.0.1",
     "normalize.css": "8.0.1",
     "sass-loader": "12.4.0",
     "snyk": "1.789.0",
